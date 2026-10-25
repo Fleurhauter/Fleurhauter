@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Fleurhauter
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on any begginner friendly project
 - 📫 How to reach me f.hauter@lse.ac.uk
 
 <!---
